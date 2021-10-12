@@ -55,7 +55,4 @@ subtitle = ""
 {{% callout warning %}}
 Thank you for visiting. This page is still under construction. Please email ted@dogoodshopper@gmail.com with any questions or suggestions that you have!
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
 {{% /callout %}}
